@@ -1,5 +1,5 @@
 # MPI-bioinformatics
-An ever-expanding list of bioinformatics software that can be parallelized across multiple compute nodes in an HPC environment
+An ever-expanding list of bioinformatics software that can be parallelized across multiple compute nodes in an HPC environment.
 
 For each tool, I will include the name, the URL where the source code can be downloaded, which "flavors" of MPI it works with (if known), and  how much testing I've done (compile, run, both, or none).  Where applicable, all code was compiled on an Linux node running CentOS 7 and using the following:
 
