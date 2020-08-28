@@ -9,15 +9,15 @@ For each tool, I will include the name, the URL where the source code can be dow
 
 MPI flavors are abbreviated as follows:
 
-##### MV = Mvapich
+``` MV ``` = Mvapich
 
-##### OP = OpenMPI
+``` OP ``` = OpenMPI
 
-#### MP = Mpich
+``` MP ``` = Mpich
 
-#### IN = Intel
+``` IN ``` = Intel
 
-##### ALL = code works with all MPI flavors
+``` ALL ``` = code works with all MPI flavors
 
 If you have any suggestions for software to add, please open an issue!
 
