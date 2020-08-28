@@ -19,6 +19,7 @@ MPI flavors are abbreviated as follows:
 
 ##### ALL = code works with all MPI flavors
 
+If you have any suggestions for software to add, please open an issue!
 
 # Software Categories 
 
