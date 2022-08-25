@@ -24,8 +24,9 @@ If you have any suggestions for software to add, please open an issue!
 ### Functional Annotation
 
 ### Multiple Sequence Alignment
-| Software | URL | MPI version(s) | Testing | Notes 
-MMSeqs2 Release 13 | https://github.com/soedinglab/MMseqs2 | OP | compiled and run | compiled with GCC 12.1 & OpenMPI 4.1.4
+| Software | URL | MPI version(s) | Testing | Notes |
+| -------- | --- | -------------- | ------- | ----- |
+MMSeqs2 Release 13 | https://github.com/soedinglab/MMseqs2 | OP | compiled and run | |
 
 ### Phylogenetics
 
